@@ -1,0 +1,30 @@
+body {
+	background-image: url(../img/Velocityheatbg.jpg);
+	background-size: cover;
+}
+
+.logo{
+	background-image: url(../img/VCheat_logo.svg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 700px;
+	height: 300px;
+	margin-left: 400px;
+
+}
+
+#search{
+	margin-left: 400px;
+}
+
+#next {
+	margin-left: 20px;
+}
+
+#shuffle{
+	margin-left: 20px; 
+}
+
+#back {
+	margin-left: 20px;
+}
